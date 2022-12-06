@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tts-rate-example</string>
+    <string name="rate_fast">Rate Fast</string>
+    <string name="rate_normal">Rate Normal</string>
+    <string name="rate_slow">Rate Slow</string>
+    <string name="test_speak">Test Speak</string>
+</resources>
