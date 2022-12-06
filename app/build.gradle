@@ -3,7 +3,6 @@ plugins {
 }
 
 apply from: '../properties.gradle'
-apply from: '../../../buildSrc/debug-app-signing.gradle'
 
 android {
     namespace 'com.realwear.tts_rate_example'
